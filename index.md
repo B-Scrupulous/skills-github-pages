@@ -3,8 +3,8 @@ title: B-Scrupulous Indeed
 ---
 
 
-[*] Make a webpage
-[*] Forget about the webpage
+1. Make a webpage.
+2. Forget about the webpage
 
 
-[ ] Remember that you built a webpage
+3. Remember that you built a webpage?
